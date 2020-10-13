@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  background-color: beige;
+}
+p {
+  color: blue;
+}
+h1 {
+  text-align: right;
+  border-right: 15px;
+}
