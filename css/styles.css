@@ -9,3 +9,14 @@ h1 {
   text-align: right;
   border-right: 15px;
 }
+
+.col-6 h1 {
+  font-weight: bold;
+  font-size: 36pt;
+  font-family: 'Franklin Gothic Medium';
+}
+.col-6 p {
+  font-style: italic;
+  font-size: 16pt;
+  color: greenyellow
+}
